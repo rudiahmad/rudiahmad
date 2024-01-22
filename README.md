@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/api?username=rudiahmad&hide=prs,contribs&show_icons=true&theme=nightowl
+<img src="https://github-readme-stats.vercel.app/api?username=rudiahmad&hide=prs,contribs&show_icons=true&theme=nightowl" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rudiahmad&amp;hide=prs,contribs&amp;show_icons=true&amp;theme=nightowl" style="max-width: 100%;">
+
