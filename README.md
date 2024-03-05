@@ -3,15 +3,21 @@
 <h2>Rudi Here !</h2>
 <ul>
   <li>🙂 Software Developer</li>
-<li>📚 I’m currently learning everything about React Native 😅</li>
-<li>💪🏼 Future Goals: Enjoy Life, Create a better living for other's</li>
-  </ul>
+  <li>📚 I’m currently learning everything about React Native 😅</li>
+  <li>💪🏼 Future Goals: Enjoy Life, Create a better living for other's</li>
+  <li>📺 Youtube : https://www.youtube.com/@bagi2info475 </li>
+  <li>🖼 Instagram : https://instagram.com/bagi2infodotcom</li>
+</ul>
 
 <!--
 **rudiahmad/rudiahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Chat me on Telegram
+WhatsApp me on Whatsapp
+Email me at G-mail
+Youtu.be : https://www.youtube.com/@codewithbahri
+Instagram : https://instagram.com/codewithbahri
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: ...
