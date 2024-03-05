@@ -7,7 +7,7 @@
   <li>💪🏼 Future Goals: Enjoy Life, Create a better living for other's</li>
   <li>🌏 Website : https://www.bagi2info.com/ </li>
   <li>📺 Youtube : https://www.youtube.com/@bagi2info475 </li>
-  <li>🖼 Instagram : https://instagram.com/bagi2infodotcom</li>  
+  <li>🖼 Instagram : https://instagram.com/bagi2infocom</li>  
 </ul>
 
 <!--
